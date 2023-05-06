@@ -23,6 +23,7 @@
     "loading-cli": "^1.1.0",
     "md5": "^2.3.0",
     "mongodb": "^3.6.2",
-    "mongoose": "^6.7.3"
+    "mongoose": "^6.7.3",
+    "morgan": "^1.10.0"
   }
 }
